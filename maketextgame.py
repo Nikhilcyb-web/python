@@ -1,5 +1,5 @@
 import tkinter as tk
-
+print("Welcome to the Adventure Game!")
 window = tk.Tk()
 window.title("My Adventure Game")
 window.configure(bg="#1a1a2e")
